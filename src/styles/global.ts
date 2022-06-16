@@ -9,6 +9,7 @@ export const GlobalStyle = createGlobalStyle`
         --black-purple: #572C57;
         --green: #7CBC71;
         --salmon: #E26972;
+        --beige: #FFF8ED;
         --button-gradient: linear-gradient(180deg, #E26972 0%, #9F5F91 99.99%, #572C57 100%);
         --gradient: linear-gradient(180deg, #E26972 0%, #9F5F91 66.15%, #572C57 100%);
     }

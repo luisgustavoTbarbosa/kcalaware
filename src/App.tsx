@@ -1,10 +1,13 @@
+import { Header } from "./components/Header";
+import { PersonalCalories } from "./components/PersonalCalories";
 import { GlobalStyle } from "./styles/global";
 
 export function App() {
   return (
-    <div className="App">
-      <h1>Hello World</h1>
+    <>
+      <Header />
+      <PersonalCalories />
       <GlobalStyle />
-    </div>
+    </>
   );
 }
