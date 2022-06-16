@@ -19,7 +19,7 @@ export const Infos = styled.div`
     padding: 2.5rem 0 2.5rem 5rem;
 
     @media screen and (max-width: 900px) {
-        padding: 2.5rem 0 2.5rem 3rem;
+        padding: 2.5rem 0 2.5rem 1rem;
     }
 `
 
@@ -135,7 +135,7 @@ export const SearchFood = styled.div`
     }
 
     @media screen and (max-width: 900px) {
-        padding: 2.5rem 3rem 2.5rem 0;
+        padding: 2.5rem 1rem 2.5rem 0;
     }
 `
 
